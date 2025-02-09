@@ -1,5 +1,5 @@
 HEAD
-div p {
+ p {
     background-color: yellow;
   }
   h1 {
@@ -14,3 +14,9 @@ div p {
     small {
         color:rgba(179, 3, 41, 0.911)
     }
+    #about {
+        text-align: center
+    }
+    img {
+        vertical-align: middle; /* Align in the middle */
+      }

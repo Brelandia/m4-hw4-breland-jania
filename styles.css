@@ -23,6 +23,6 @@ img {
 footer {
     background-color: darksalmon;
 }
-.image-container {
+div > img {
     text-align: center;  
   }

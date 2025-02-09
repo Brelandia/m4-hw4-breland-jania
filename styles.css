@@ -1,22 +1,25 @@
 HEAD
  p {
     background-color: yellow;
+}
+h1 {
+   color:blueviolet
+}
+h3 {
+     color:rgba(44, 8, 173, 0.911)
+}
+ h2 {
+    color:rgba(48, 8, 85, 0.911)
+}
+small {
+       color:rgba(179, 3, 41, 0.911)
+}
+#about {
+    text-align: center
+}
+img {
+    vertical-align: middle; /* Align in the middle */
   }
-  h1 {
-      color:blueviolet
-    }
-    h3 {
-        color:rgba(44, 8, 173, 0.911)
-    }
-    h2 {
-        color:rgba(48, 8, 85, 0.911)
-    }
-    small {
-        color:rgba(179, 3, 41, 0.911)
-    }
-    #about {
-        text-align: center
-    }
-    img {
-        vertical-align: middle; /* Align in the middle */
-      }
+footer {
+    background-color: darksalmon;
+}

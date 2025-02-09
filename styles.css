@@ -1,6 +1,6 @@
 HEAD
- p {
-    background-color: yellow;
+ div > p {
+    font-size: 22px
 }
 h1 {
    color:blueviolet
@@ -12,14 +12,17 @@ h3 {
     color:rgba(48, 8, 85, 0.911)
 }
 small {
-       color:rgba(179, 3, 41, 0.911)
+   color:rgba(179, 3, 41, 0.911)
 }
 #about {
     text-align: center
 }
 img {
-    vertical-align: middle; /* Align in the middle */
-  }
+    vertical-align: middle; 
+}
 footer {
     background-color: darksalmon;
 }
+img {
+    text-align: center;  
+  }

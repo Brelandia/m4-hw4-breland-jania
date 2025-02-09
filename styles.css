@@ -23,8 +23,6 @@ img {
 footer {
     background-color: darksalmon;
 }
-.center-image {
-    display: block;        
-    margin-left: auto;     
-    margin-right: auto;    
-  }  
+.image-container {
+    text-align: center;  
+  }
